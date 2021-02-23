@@ -1,7 +1,7 @@
 ## Hi there, I'm Carlos 👋🙏
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-CRBENJUME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-alberto-rodríguez-benjume-4b62b619a/)](https://www.linkedin.com/in/carlos-alberto-rodríguez-benjume-4b62b619a/)
 [![](https://img.shields.io/badge/Telegram-Carlos_Benjume-blue)](https://t.me/CR_Benjume)
-[![](https://img.shields.io/badge/Gmail-carlos.alberto.rb97%40gmail.com-red)](https://mail.google.com/mail/u/0/#inbox)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/CRBENJUME/count.svg" />
