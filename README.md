@@ -16,7 +16,7 @@ const CRBENJU = {
     askMeAbout: ["web dev", "tech", "app dev", "music", "movies", "Imagine Dragons"],
     technologies: {
        frontEnd: {
-            js: ["Vue"],
+            js: ["Vue", "React"],
             css: ["SASS", "bootstrap"]
         },
        backEnd: {
