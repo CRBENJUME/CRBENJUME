@@ -12,7 +12,7 @@
 ```javascript
 const CRBENJU = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "python", "C, C++", "Java"],
+    code: ["Javascript", "python", "C/C++", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "music", "movies", "Imagine Dragons"],
     technologies: {
        frontEnd: {
